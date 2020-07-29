@@ -12,7 +12,7 @@ script:
 
 notifications:
 email:
-  reciepients:
+  recipients:
   - jhonalexander9@gmail.com
   on_success: always
   on_failure: never
